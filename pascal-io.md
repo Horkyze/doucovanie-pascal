@@ -19,7 +19,7 @@ Zodpovedajuci `vystup.txt`
 ```
 27.4955
 -
-43.3013
+4.33013
 6
 ```
 
